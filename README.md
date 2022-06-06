@@ -11,6 +11,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoserra17&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+  
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="diego-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="diego-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  <img align="center" alt="diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rdiego-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/qcY5VfkzU6ty0HAZ2nXAbiACG_xG5TX2pPZ172wk4N8RwalEYKN02XAtR4s8WZwoJg=w280">
+</div>
 
 <!--
 **diegoserra17/diegoserra17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
