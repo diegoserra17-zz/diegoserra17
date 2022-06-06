@@ -20,8 +20,6 @@
   <img align="center" alt="diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rdiego-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/qcY5VfkzU6ty0HAZ2nXAbiACG_xG5TX2pPZ172wk4N8RwalEYKN02XAtR4s8WZwoJg=w280">
 </div>
 
