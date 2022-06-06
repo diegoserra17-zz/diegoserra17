@@ -25,6 +25,18 @@
   <img align="right" alt="Rdiego-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/qcY5VfkzU6ty0HAZ2nXAbiACG_xG5TX2pPZ172wk4N8RwalEYKN02XAtR4s8WZwoJg=w280">
 </div>
 
+
+##
+
+<div> 
+  <a href="https://www.linkedin.com/in/diegoserrafinancialdatascience/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/diego.serra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+ 
+</div>
+
+
+
 <!--
 **diegoserra17/diegoserra17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
