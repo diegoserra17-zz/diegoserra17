@@ -1,8 +1,8 @@
-### Olá ! Sou Diego Serra, seja bem vindo!
+### Olá! Seja bem-vindo.
 
 
-- 🔭 Atualmente trabalho com análises financeiras e contábeis e bancos de dados.
-- 🌱 Atualmente estou me especializando na área de Ciencia de Dados (Python, R, Bancos de Dados , Estatística, dentre outros)
+- 🔭 Atualmente trabalho com análise financeira, gestão contábil e construção de bancos de dados e seus relacionamentos.
+- 🌱 Estou me especializando na área de Ciência de Dados (Python, R, Bancos de Dados, Estatística, entre outros).
 
 
 <div align="center">
